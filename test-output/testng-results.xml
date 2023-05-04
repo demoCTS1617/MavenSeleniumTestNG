@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-02T10:50:26 IST" name="Suite" finished-at="2023-05-02T10:50:38 IST" duration-ms="12271">
+    <groups>
+    </groups>
+    <test started-at="2023-05-02T10:50:26 IST" name="Test" finished-at="2023-05-02T10:50:38 IST" duration-ms="12271">
+      <class name="TestNGExample.TS_TNG_LaunchGoogle">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestNGExample.TS_TNG_LaunchGoogle@618425b5]" started-at="2023-05-02T10:50:26 IST" name="setup" finished-at="2023-05-02T10:50:36 IST" duration-ms="9999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifytitle()[pri:0, instance:TestNGExample.TS_TNG_LaunchGoogle@618425b5]" started-at="2023-05-02T10:50:36 IST" name="verifytitle" finished-at="2023-05-02T10:50:38 IST" duration-ms="2027" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifytitle -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestNGExample.TS_TNG_LaunchGoogle@618425b5]" started-at="2023-05-02T10:50:38 IST" name="teardown" finished-at="2023-05-02T10:50:38 IST" duration-ms="212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestNGExample.TS_TNG_LaunchGoogle -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
